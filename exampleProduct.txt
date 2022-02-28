@@ -1,0 +1,27 @@
+  //@ts-nocheck
+  {'6204ab10727cc5044430a1a9': {
+    _id: '6204ab10727cc5044430a1a9',
+    partnerId: [ 'lpo_nhd89kj64wx2' ],
+    organization_name: 'B Inspired',
+    ecomm_id: '7020770132138',
+    title: 'HB - Age 9 Oh hey Birthday',
+    handle: 'hb-age-9-oh-hey-birthday',
+    description: '',
+    published_at: '2021-10-15T14:19:08.000Z',
+    created_at: '2021-10-15T13:05:20.000Z',
+    updated_at: '2021-10-15T14:19:08.000Z',
+    brand: {
+      brand: 'B Inspired',
+      originalValue: 'B Inspired',
+      comparativeValue: ''
+    },
+    product_categories: [ 'Age 9', '' ],
+    variants: [ [Object] ],
+    images: [ '6204ab0f727cc5044430a1a7' ],
+    options: [ [Object] ],
+    partnerOrganizations: [ '6204a7d75f9d2c7981fda793' ],
+    retailLocations: [],
+    originalData: [ [Object] ],
+    productId: 'lp_md4eutcwnq4j',
+    __v: 0
+  }}

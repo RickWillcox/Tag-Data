@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --ignore 'raw_lure_products.json' dist/getProducts.js"
+    "getP": "nodemon --ignore 'raw_lure_products.json' dist/getProducts.js",
+    "tagP": "nodemon dist/tagProducts.js"
   },
   "author": "Rick Willcox",
   "license": "ISC",
