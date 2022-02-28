@@ -1,0 +1,19 @@
+{
+  "name": "get-lure-products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --ignore 'raw_lure_products.json' dist/getProducts.js"
+  },
+  "author": "Rick Willcox",
+  "license": "ISC",
+  "dependencies": {
+    "@lureapps/mongo-models": "^0.2.111",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.2.3",
+    "nodemon": "^2.0.15",
+    "progress": "^2.0.3",
+    "tsc": "^2.0.4"
+  }
+}
