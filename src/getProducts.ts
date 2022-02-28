@@ -28,15 +28,15 @@ async function getProducts() {
         bar.tick();
     }
 
-    fs.writeFile(
-        'raw_lure_products.json',
-        JSON.stringify(lureJson),
-        function (err: any) {
-            if (!err) {
-                console.log('raw_lure_products.json Saved!');
-            }
-        }
-    );
+    // fs.writeFile(
+    //     'raw_lure_products.json',
+    //     JSON.stringify(lureJson),
+    //     function (err: any) {
+    //         if (!err) {
+    //             console.log('raw_lure_products.json Saved!');
+    //         }
+    //     }
+    // );
 }
 
 getProducts();
